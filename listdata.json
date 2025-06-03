@@ -1,0 +1,2739 @@
+[
+    {
+      "id": 1,
+      "code": "111111",
+      "en": "Chief Executive or Managing Director",
+      "vi": "Giám đốc điều hành hoặc Giám đốc quản lý"
+    },
+    {
+      "id": 2,
+      "code": "111211",
+      "en": "Corporate General Manager",
+      "vi": "Giám đốc điều hành doanh nghiệp"
+    },
+    {
+      "id": 3,
+      "code": "121111",
+      "en": "Aquaculture Farmer",
+      "vi": "Nông dân nuôi trồng thủy sản"
+    },
+    {
+      "id": 4,
+      "code": "121311",
+      "en": "Apiarist",
+      "vi": "Người nuôi ong"
+    },
+    {
+      "id": 5,
+      "code": "121313",
+      "en": "Dairy Cattle Farmer",
+      "vi": "Nông dân chăn nuôi bò sữa"
+    },
+    {
+      "id": 6,
+      "code": "121315",
+      "en": "Goat Farmer",
+      "vi": "Nông dân chăn nuôi dê"
+    },
+    {
+      "id": 7,
+      "code": "121318",
+      "en": "Pig Farmer",
+      "vi": "Nông dân chăn nuôi lợn"
+    },
+    {
+      "id": 8,
+      "code": "121321",
+      "en": "Poultry Farmer",
+      "vi": "Nông dân chăn nuôi gia cầm"
+    },
+    {
+      "id": 9,
+      "code": "121611",
+      "en": "Flower Grower",
+      "vi": "Người trồng hoa"
+    },
+    {
+      "id": 10,
+      "code": "131112",
+      "en": "Sales and Marketing Manager",
+      "vi": "Quản lý bán hàng và tiếp thị"
+    },
+    {
+      "id": 11,
+      "code": "131113",
+      "en": "Advertising Manager",
+      "vi": "Quản lý quảng cáo"
+    },
+    {
+      "id": 12,
+      "code": "132111",
+      "en": "Corporate Services Manager",
+      "vi": "Quản lý dịch vụ doanh nghiệp"
+    },
+    {
+      "id": 13,
+      "code": "132211",
+      "en": "Finance Manager",
+      "vi": "Quản lý tài chính"
+    },
+    {
+      "id": 14,
+      "code": "132311",
+      "en": "Human Resource Manager",
+      "vi": "Quản lý nhân sự"
+    },
+    {
+      "id": 15,
+      "code": "132411",
+      "en": "Policy and Planning Manager",
+      "vi": "Quản lý chính sách và kế hoạch"
+    },
+    {
+      "id": 16,
+      "code": "132511",
+      "en": "Research and Development Manager",
+      "vi": "Quản lý nghiên cứu và phát triển"
+    },
+    {
+      "id": 17,
+      "code": "133111",
+      "en": "Construction Project Manager",
+      "vi": "Quản lý dự án xây dựng"
+    },
+    {
+      "id": 18,
+      "code": "133112",
+      "en": "Project Builder",
+      "vi": "Người xây dựng dự án"
+    },
+    {
+      "id": 19,
+      "code": "133211",
+      "en": "Engineering Manager",
+      "vi": "Quản lý kỹ thuật"
+    },
+    {
+      "id": 20,
+      "code": "133511",
+      "en": "Production Manager (Forestry)",
+      "vi": "Quản lý sản xuất (Lâm nghiệp)"
+    },
+    {
+      "id": 21,
+      "code": "133512",
+      "en": "Production Manager (Manufacturing)",
+      "vi": "Quản lý sản xuất (Sản xuất)"
+    },
+    {
+      "id": 22,
+      "code": "133611",
+      "en": "Supply and Distribution Manager",
+      "vi": "Quản lý cung ứng và phân phối"
+    },
+    {
+      "id": 23,
+      "code": "133612",
+      "en": "Procurement Manager",
+      "vi": "Quản lý thu mua"
+    },
+    {
+      "id": 24,
+      "code": "134211",
+      "en": "Medical Administrator \\ Medical Superintendent",
+      "vi": "Quản trị viên y tế \\ Giám đốc y tế"
+    },
+    {
+      "id": 25,
+      "code": "134212",
+      "en": "Nursing Clinical Director",
+      "vi": "Giám đốc lâm sàng điều dưỡng"
+    },
+    {
+      "id": 26,
+      "code": "134213",
+      "en": "Primary Health Organisation Manager",
+      "vi": "Quản lý tổ chức y tế sơ cấp"
+    },
+    {
+      "id": 27,
+      "code": "134311",
+      "en": "School Principal",
+      "vi": "Hiệu trưởng trường học"
+    },
+    {
+      "id": 28,
+      "code": "134411",
+      "en": "Faculty Head",
+      "vi": "Trưởng khoa"
+    },
+    {
+      "id": 29,
+      "code": "134499",
+      "en": "Education Managers nec",
+      "vi": "Quản lý giáo dục khác"
+    },
+    {
+      "id": 30,
+      "code": "135111",
+      "en": "Chief Information Officer",
+      "vi": "Giám đốc thông tin"
+    },
+    {
+      "id": 31,
+      "code": "135112",
+      "en": "ICT Project Manager",
+      "vi": "Quản lý dự án CNTT"
+    },
+    {
+      "id": 32,
+      "code": "135199",
+      "en": "ICT Managers nec",
+      "vi": "Quản lý CNTT khác"
+    },
+    {
+      "id": 33,
+      "code": "139911",
+      "en": "Arts Administrator or Manager",
+      "vi": "Quản trị viên hoặc quản lý nghệ thuật"
+    },
+    {
+      "id": 34,
+      "code": "139912",
+      "en": "Environmental Manager",
+      "vi": "Quản lý môi trường"
+    },
+    {
+      "id": 35,
+      "code": "139913",
+      "en": "Laboratory Manager",
+      "vi": "Quản lý phòng thí nghiệm"
+    },
+    {
+      "id": 36,
+      "code": "139916",
+      "en": "Quality Assurance Manager",
+      "vi": "Quản lý đảm bảo chất lượng"
+    },
+    {
+      "id": 37,
+      "code": "139917",
+      "en": "Regulatory Affairs Manager",
+      "vi": "Quản lý các vấn đề pháp lý"
+    },
+    {
+      "id": 38,
+      "code": "141311",
+      "en": "Hotel or Motel Manager",
+      "vi": "Quản lý khách sạn hoặc nhà nghỉ"
+    },
+    {
+      "id": 39,
+      "code": "141411",
+      "en": "Licensed Club Manager",
+      "vi": "Quản lý câu lạc bộ có giấy phép"
+    },
+    {
+      "id": 40,
+      "code": "141999",
+      "en": "Accommodation and Hospitality Managers nec",
+      "vi": "Quản lý lưu trú và khách sạn khác"
+    },
+    {
+      "id": 41,
+      "code": "142111",
+      "en": "Retail Manager (General)",
+      "vi": "Quản lý bán lẻ (Chung)"
+    },
+    {
+      "id": 42,
+      "code": "142116",
+      "en": "Travel Agency Manager",
+      "vi": "Quản lý đại lý du lịch"
+    },
+    {
+      "id": 43,
+      "code": "149411",
+      "en": "Fleet Manager",
+      "vi": "Quản lý đội xe"
+    },
+    {
+      "id": 44,
+      "code": "149911",
+      "en": "Boarding Kennel or Cattery Operator",
+      "vi": "Người vận hành nhà trọ cho thú cưng"
+    },
+    {
+      "id": 45,
+      "code": "149912",
+      "en": "Cinema or Theatre Manager",
+      "vi": "Quản lý rạp chiếu phim hoặc nhà hát"
+    },
+    {
+      "id": 46,
+      "code": "149915",
+      "en": "Equipment Hire Manager",
+      "vi": "Quản lý thuê thiết bị"
+    },
+    {
+      "id": 47,
+      "code": "149999",
+      "en": "Hospitality, Retail and Service Managers nec",
+      "vi": "Quản lý khách sạn, bán lẻ và dịch vụ khác"
+    },
+    {
+      "id": 48,
+      "code": "211212",
+      "en": "Music Director",
+      "vi": "Giám đốc âm nhạc"
+    },
+    {
+      "id": 49,
+      "code": "212111",
+      "en": "Artistic Director",
+      "vi": "Giám đốc nghệ thuật"
+    },
+    {
+      "id": 50,
+      "code": "212315",
+      "en": "Program Director (Television or Radio)",
+      "vi": "Giám đốc chương trình (Truyền hình hoặc Radio)"
+    },
+    {
+        "id": 51,
+        "code": "212316",
+        "en": "Stage Manager",
+        "vi": "Quản lý sân khấu"
+      },
+      {
+        "id": 52,
+        "code": "212317",
+        "en": "Technical Director",
+        "vi": "Giám đốc kỹ thuật"
+      },
+      {
+        "id": 53,
+        "code": "212318",
+        "en": "Video Producer",
+        "vi": "Nhà sản xuất video"
+      },
+      {
+        "id": 54,
+        "code": "212413",
+        "en": "Print Journalist",
+        "vi": "Nhà báo in ấn"
+      },
+      {
+        "id": 55,
+        "code": "212414",
+        "en": "Radio Journalist",
+        "vi": "Nhà báo phát thanh"
+      },
+      {
+        "id": 56,
+        "code": "212415",
+        "en": "Technical Writer",
+        "vi": "Người viết tài liệu kỹ thuật"
+      },
+      {
+        "id": 57,
+        "code": "212416",
+        "en": "Television Journalist",
+        "vi": "Nhà báo truyền hình"
+      },
+      {
+        "id": 58,
+        "code": "212499",
+        "en": "Journalists and Other Writers nec",
+        "vi": "Nhà báo và các nhà văn khác"
+      },
+      {
+        "id": 59,
+        "code": "221111",
+        "en": "Accountant (General)",
+        "vi": "Kế toán (Chung)"
+      },
+      {
+        "id": 60,
+        "code": "221112",
+        "en": "Management Accountant",
+        "vi": "Kế toán quản trị"
+      },
+      {
+        "id": 61,
+        "code": "221113",
+        "en": "Taxation Accountant",
+        "vi": "Kế toán thuế"
+      },
+      {
+        "id": 62,
+        "code": "221211",
+        "en": "Company Secretary",
+        "vi": "Thư ký công ty"
+      },
+      {
+        "id": 63,
+        "code": "221213",
+        "en": "External Auditor",
+        "vi": "Kiểm toán viên bên ngoài"
+      },
+      {
+        "id": 64,
+        "code": "221214",
+        "en": "Internal Auditor",
+        "vi": "Kiểm toán viên nội bộ"
+      },
+      {
+        "id": 65,
+        "code": "222112",
+        "en": "Finance Broker",
+        "vi": "Môi giới tài chính"
+      },
+      {
+        "id": 66,
+        "code": "222113",
+        "en": "Insurance Broker",
+        "vi": "Môi giới bảo hiểm"
+      },
+      {
+        "id": 67,
+        "code": "222311",
+        "en": "Financial Investment Adviser",
+        "vi": "Cố vấn đầu tư tài chính"
+      },
+      {
+        "id": 68,
+        "code": "223111",
+        "en": "Human Resource Adviser",
+        "vi": "Cố vấn nhân sự"
+      },
+      {
+        "id": 69,
+        "code": "223112",
+        "en": "Recruitment Consultant",
+        "vi": "Tư vấn tuyển dụng"
+      },
+      {
+        "id": 70,
+        "code": "223113",
+        "en": "Workplace Relations Adviser",
+        "vi": "Cố vấn quan hệ nơi làm việc"
+      },
+      {
+        "id": 71,
+        "code": "224111",
+        "en": "Actuary",
+        "vi": "Chuyên viên định phí bảo hiểm"
+      },
+      {
+        "id": 72,
+        "code": "224112",
+        "en": "Mathematician",
+        "vi": "Nhà toán học"
+      },
+      {
+        "id": 73,
+        "code": "224114",
+        "en": "Data Analyst",
+        "vi": "Nhà phân tích dữ liệu"
+      },
+      {
+        "id": 74,
+        "code": "224115",
+        "en": "Data Scientist",
+        "vi": "Nhà khoa học dữ liệu"
+      },
+      {
+        "id": 75,
+        "code": "224116",
+        "en": "Statistician",
+        "vi": "Nhà thống kê"
+      },
+      {
+        "id": 76,
+        "code": "224511",
+        "en": "Land Economist",
+        "vi": "Nhà kinh tế đất đai"
+      },
+      {
+        "id": 77,
+        "code": "224512",
+        "en": "Valuer",
+        "vi": "Nhà thẩm định giá"
+      },
+      {
+        "id": 78,
+        "code": "224712",
+        "en": "Organisation and Methods Analyst",
+        "vi": "Nhà phân tích tổ chức và phương pháp"
+      },
+      {
+        "id": 79,
+        "code": "224713",
+        "en": "Management Consultant",
+        "vi": "Tư vấn quản lý"
+      },
+      {
+        "id": 80,
+        "code": "224714",
+        "en": "Supply Chain Analyst",
+        "vi": "Nhà phân tích chuỗi cung ứng"
+      },
+      {
+        "id": 81,
+        "code": "224914",
+        "en": "Patents Examiner",
+        "vi": "Chuyên viên kiểm định bằng sáng chế"
+      },
+      {
+        "id": 82,
+        "code": "224999",
+        "en": "Information and Organisation Professionals nec",
+        "vi": "Chuyên viên thông tin và tổ chức khác"
+      },
+      {
+        "id": 83,
+        "code": "225111",
+        "en": "Advertising Specialist",
+        "vi": "Chuyên gia quảng cáo"
+      },
+      {
+        "id": 84,
+        "code": "225113",
+        "en": "Marketing Specialist",
+        "vi": "Chuyên gia tiếp thị"
+      },
+      {
+        "id": 85,
+        "code": "225114",
+        "en": "Content Creator (Marketing)",
+        "vi": "Người sáng tạo nội dung (Tiếp thị)"
+      },
+      {
+        "id": 86,
+        "code": "225211",
+        "en": "ICT Account Manager",
+        "vi": "Quản lý tài khoản CNTT"
+      },
+      {
+        "id": 87,
+        "code": "225212",
+        "en": "ICT Business Development Manager",
+        "vi": "Quản lý phát triển kinh doanh CNTT"
+      },
+      {
+        "id": 88,
+        "code": "225213",
+        "en": "ICT Sales Representative",
+        "vi": "Đại diện bán hàng CNTT"
+      },
+      {
+        "id": 89,
+        "code": "225311",
+        "en": "Public Relations Professional",
+        "vi": "Chuyên viên quan hệ công chúng"
+      },
+      {
+        "id": 90,
+        "code": "225411",
+        "en": "Sales Representative (Industrial Products)",
+        "vi": "Đại diện bán hàng (Sản phẩm công nghiệp)"
+      },
+      {
+        "id": 91,
+        "code": "225412",
+        "en": "Sales Representative (Medical and Pharmaceutical Products)",
+        "vi": "Đại diện bán hàng (Sản phẩm y tế và dược phẩm)"
+      },
+      {
+        "id": 92,
+        "code": "225499",
+        "en": "Technical Sales Representatives nec",
+        "vi": "Đại diện bán hàng kỹ thuật khác"
+      },
+      {
+        "id": 93,
+        "code": "231111",
+        "en": "Aeroplane Pilot",
+        "vi": "Phi công máy bay"
+      },
+      {
+        "id": 94,
+        "code": "231113",
+        "en": "Flying Instructor",
+        "vi": "Giảng viên dạy bay"
+      },
+      {
+        "id": 95,
+        "code": "231114",
+        "en": "Helicopter Pilot",
+        "vi": "Phi công trực thăng"
+      },
+      {
+        "id": 96,
+        "code": "231199",
+        "en": "Air Transport Professionals nec",
+        "vi": "Chuyên viên vận tải hàng không khác"
+      },
+      {
+        "id": 97,
+        "code": "231212",
+        "en": "Ship's Engineer",
+        "vi": "Kỹ sư tàu thủy"
+      },
+      {
+        "id": 98,
+        "code": "232111",
+        "en": "Architect",
+        "vi": "Kiến trúc sư"
+      },
+      {
+        "id": 99,
+        "code": "232112",
+        "en": "Landscape Architect",
+        "vi": "Kiến trúc sư cảnh quan"
+      },
+      {
+        "id": 100,
+        "code": "232212",
+        "en": "Surveyor",
+        "vi": "Nhân viên khảo sát"
+      },
+      {
+        "id": 101,
+        "code": "232213",
+        "en": "Cartographer",
+        "vi": "Nhà lập bản đồ"
+      },
+      {
+        "id": 102,
+        "code": "232214",
+        "en": "Other Spatial Scientist",
+        "vi": "Nhà khoa học không gian khác"
+      },
+      {
+        "id": 103,
+        "code": "232313",
+        "en": "Jewellery Designer",
+        "vi": "Nhà thiết kế trang sức"
+      },
+      {
+        "id": 104,
+        "code": "232412",
+        "en": "Illustrator",
+        "vi": "Họa sĩ minh họa"
+      },
+      {
+        "id": 105,
+        "code": "232413",
+        "en": "Multimedia Designer",
+        "vi": "Nhà thiết kế đa phương tiện"
+      },
+      {
+        "id": 106,
+        "code": "232414",
+        "en": "Web Designer",
+        "vi": "Nhà thiết kế web"
+      },
+      {
+        "id": 107,
+        "code": "232511",
+        "en": "Interior Designer",
+        "vi": "Nhà thiết kế nội thất"
+      },
+      {
+        "id": 108,
+        "code": "232611",
+        "en": "Urban and Regional Planner",
+        "vi": "Nhà quy hoạch đô thị và vùng"
+      },
+      {
+        "id": 109,
+        "code": "233111",
+        "en": "Chemical Engineer",
+        "vi": "Kỹ sư hóa học"
+      },
+      {
+        "id": 110,
+        "code": "233112",
+        "en": "Materials Engineer",
+        "vi": "Kỹ sư vật liệu"
+      },
+      {
+        "id": 111,
+        "code": "233211",
+        "en": "Civil Engineer",
+        "vi": "Kỹ sư xây dựng"
+      },
+      {
+        "id": 112,
+        "code": "233212",
+        "en": "Geotechnical Engineer",
+        "vi": "Kỹ sư địa kỹ thuật"
+      },
+      {
+        "id": 113,
+        "code": "233213",
+        "en": "Quantity Surveyor",
+        "vi": "Kỹ sư định giá xây dựng"
+      },
+      {
+        "id": 114,
+        "code": "233214",
+        "en": "Structural Engineer",
+        "vi": "Kỹ sư kết cấu"
+      },
+      {
+        "id": 115,
+        "code": "233215",
+        "en": "Transport Engineer",
+        "vi": "Kỹ sư giao thông"
+      },
+      {
+        "id": 116,
+        "code": "233311",
+        "en": "Electrical Engineer",
+        "vi": "Kỹ sư điện"
+      },
+      {
+        "id": 117,
+        "code": "233411",
+        "en": "Electronics Engineer",
+        "vi": "Kỹ sư điện tử"
+      },
+      {
+        "id": 118,
+        "code": "233511",
+        "en": "Industrial Engineer",
+        "vi": "Kỹ sư công nghiệp"
+      },
+      {
+        "id": 119,
+        "code": "233512",
+        "en": "Mechanical Engineer",
+        "vi": "Kỹ sư cơ khí"
+      },
+      {
+        "id": 120,
+        "code": "233513",
+        "en": "Production or Plant Engineer",
+        "vi": "Kỹ sư sản xuất hoặc kỹ sư nhà máy"
+      },
+      {
+        "id": 121,
+        "code": "233611",
+        "en": "Mining Engineer (excluding Petroleum)",
+        "vi": "Kỹ sư mỏ (trừ dầu khí)"
+      },
+      {
+        "id": 122,
+        "code": "233612",
+        "en": "Petroleum Engineer",
+        "vi": "Kỹ sư dầu khí"
+      },
+      {
+        "id": 123,
+        "code": "233911",
+        "en": "Aeronautical Engineer",
+        "vi": "Kỹ sư hàng không"
+      },
+      {
+        "id": 124,
+        "code": "233912",
+        "en": "Agricultural Engineer",
+        "vi": "Kỹ sư nông nghiệp"
+      },
+      {
+        "id": 125,
+        "code": "233913",
+        "en": "Biomedical Engineer",
+        "vi": "Kỹ sư y sinh"
+      },
+      {
+        "id": 126,
+        "code": "233914",
+        "en": "Engineering Technologist",
+        "vi": "Chuyên gia công nghệ kỹ thuật"
+      },
+      {
+        "id": 127,
+        "code": "233915",
+        "en": "Environmental Engineer",
+        "vi": "Kỹ sư môi trường"
+      },
+      {
+        "id": 128,
+        "code": "233916",
+        "en": "Naval Architect / Marine Designer",
+        "vi": "Kỹ sư đóng tàu / Nhà thiết kế hàng hải"
+      },
+      {
+        "id": 129,
+        "code": "233999",
+        "en": "Engineering Professionals nec",
+        "vi": "Chuyên gia kỹ thuật khác"
+      },
+      {
+        "id": 130,
+        "code": "234111",
+        "en": "Agricultural Consultant",
+        "vi": "Tư vấn nông nghiệp"
+      },
+      {
+        "id": 131,
+        "code": "234114",
+        "en": "Agricultural Research Scientist",
+        "vi": "Nhà khoa học nghiên cứu nông nghiệp"
+      },
+      {
+        "id": 132,
+        "code": "234115",
+        "en": "Agronomist",
+        "vi": "Nhà nông học"
+      },
+      {
+        "id": 133,
+        "code": "234116",
+        "en": "Aquaculture or Fisheries Scientist",
+        "vi": "Nhà khoa học nuôi trồng thủy sản hoặc ngư nghiệp"
+      },
+      {
+        "id": 134,
+        "code": "234211",
+        "en": "Chemist",
+        "vi": "Nhà hóa học"
+      },
+      {
+        "id": 135,
+        "code": "234212",
+        "en": "Food Technologist",
+        "vi": "Nhà công nghệ thực phẩm"
+      },
+      {
+        "id": 136,
+        "code": "234213",
+        "en": "Wine Maker",
+        "vi": "Nhà sản xuất rượu"
+      },
+      {
+        "id": 137,
+        "code": "234312",
+        "en": "Environmental Consultant",
+        "vi": "Tư vấn môi trường"
+      },
+      {
+        "id": 138,
+        "code": "234399",
+        "en": "Environmental Scientists nec",
+        "vi": "Nhà khoa học môi trường khác"
+      },
+      {
+        "id": 139,
+        "code": "234411",
+        "en": "Geologist",
+        "vi": "Nhà địa chất"
+      },
+      {
+        "id": 140,
+        "code": "234412",
+        "en": "Geophysicist",
+        "vi": "Nhà vật lý địa cầu"
+      },
+      {
+        "id": 141,
+        "code": "234413",
+        "en": "Hydrogeologist",
+        "vi": "Nhà địa chất thủy văn"
+      },
+      {
+        "id": 142,
+        "code": "234511",
+        "en": "Life Scientist (General)",
+        "vi": "Nhà khoa học sự sống (Chung)"
+      },
+      {
+        "id": 143,
+        "code": "234513",
+        "en": "Biochemist",
+        "vi": "Nhà sinh hóa học"
+      },
+      {
+        "id": 144,
+        "code": "234515",
+        "en": "Botanist",
+        "vi": "Nhà thực vật học"
+      },
+      {
+        "id": 145,
+        "code": "234516",
+        "en": "Marine Biologist",
+        "vi": "Nhà sinh vật học biển"
+      },
+      {
+        "id": 146,
+        "code": "234521",
+        "en": "Entomologist",
+        "vi": "Nhà côn trùng học"
+      },
+      {
+        "id": 147,
+        "code": "234522",
+        "en": "Zoologist",
+        "vi": "Nhà động vật học"
+      },
+      {
+        "id": 148,
+        "code": "234599",
+        "en": "Life Scientists nec",
+        "vi": "Nhà khoa học sự sống khác"
+      },
+      {
+        "id": 149,
+        "code": "234612",
+        "en": "Respiratory Scientist",
+        "vi": "Nhà khoa học hô hấp"
+      },
+      {
+        "id": 150,
+        "code": "234711",
+        "en": "Veterinarian",
+        "vi": "Bác sĩ thú y"
+      },
+      {
+        "id": 151,
+        "code": "234911",
+        "en": "Conservator",
+        "vi": "Chuyên gia bảo tồn"
+      },
+      {
+        "id": 152,
+        "code": "234912",
+        "en": "Metallurgist",
+        "vi": "Kỹ sư luyện kim"
+      },
+      {
+        "id": 153,
+        "code": "234913",
+        "en": "Meteorologist",
+        "vi": "Nhà khí tượng"
+      },
+      {
+        "id": 154,
+        "code": "234914",
+        "en": "Physicist",
+        "vi": "Nhà vật lý"
+      },
+      {
+        "id": 155,
+        "code": "234999",
+        "en": "Natural and Physical Science Professionals nec",
+        "vi": "Chuyên gia khoa học tự nhiên và vật lý khác"
+      },
+      {
+        "id": 156,
+        "code": "241111",
+        "en": "Early Childhood (Pre-primary School) Teacher",
+        "vi": "Giáo viên mầm non"
+      },
+      {
+        "id": 157,
+        "code": "241213",
+        "en": "Primary School Teacher",
+        "vi": "Giáo viên tiểu học"
+      },
+      {
+        "id": 158,
+        "code": "241311",
+        "en": "Middle School Teacher / Intermediate School Teacher",
+        "vi": "Giáo viên trường trung học cơ sở"
+      },
+      {
+        "id": 159,
+        "code": "241411",
+        "en": "Secondary School Teacher",
+        "vi": "Giáo viên trung học phổ thông"
+      },
+      {
+        "id": 160,
+        "code": "241511",
+        "en": "Special Needs Teacher",
+        "vi": "Giáo viên giáo dục đặc biệt"
+      },
+      {
+        "id": 161,
+        "code": "241512",
+        "en": "Teacher of the Hearing Impaired",
+        "vi": "Giáo viên dạy cho người khiếm thính"
+      },
+      {
+        "id": 162,
+        "code": "241513",
+        "en": "Teacher of the Sight Impaired",
+        "vi": "Giáo viên dạy cho người khiếm thị"
+      },
+      {
+        "id": 163,
+        "code": "241599",
+        "en": "Special Education Teachers nec",
+        "vi": "Giáo viên giáo dục đặc biệt khác"
+      },
+      {
+        "id": 164,
+        "code": "242111",
+        "en": "University Lecturer",
+        "vi": "Giảng viên đại học"
+      },
+      {
+        "id": 165,
+        "code": "242211",
+        "en": "Vocational Education Teacher / Polytechnic Teacher",
+        "vi": "Giáo viên giáo dục nghề nghiệp"
+      },
+      {
+        "id": 166,
+        "code": "249112",
+        "en": "Education Reviewer",
+        "vi": "Nhà đánh giá giáo dục"
+      },
+      {
+        "id": 167,
+        "code": "249214",
+        "en": "Music Teacher (Private Tuition)",
+        "vi": "Giáo viên âm nhạc (Dạy kèm)"
+      },
+      {
+        "id": 168,
+        "code": "249299",
+        "en": "Private Tutors and Teachers nec",
+        "vi": "Gia sư và giáo viên dạy kèm khác"
+      },
+      {
+        "id": 169,
+        "code": "251111",
+        "en": "Dietitian",
+        "vi": "Chuyên gia dinh dưỡng"
+      },
+      {
+        "id": 170,
+        "code": "251211",
+        "en": "Medical Diagnostic Radiographer",
+        "vi": "Kỹ thuật viên chẩn đoán hình ảnh y tế"
+      },
+      {
+        "id": 171,
+        "code": "251212",
+        "en": "Medical Radiation Therapist",
+        "vi": "Chuyên gia trị liệu bằng tia xạ"
+      },
+      {
+        "id": 172,
+        "code": "251213",
+        "en": "Nuclear Medicine Technologist",
+        "vi": "Chuyên gia y học hạt nhân"
+      },
+      {
+        "id": 173,
+        "code": "251214",
+        "en": "Sonographer",
+        "vi": "Chuyên gia siêu âm"
+      },
+      {
+        "id": 174,
+        "code": "251312",
+        "en": "Occupational Health and Safety Adviser",
+        "vi": "Cố vấn an toàn và sức khỏe nghề nghiệp"
+      },
+      {
+        "id": 175,
+        "code": "251411",
+        "en": "Optometrist",
+        "vi": "Chuyên gia nhãn khoa"
+      },
+      {
+        "id": 176,
+        "code": "251412",
+        "en": "Orthoptist",
+        "vi": "Chuyên gia về bệnh lý mắt"
+      },
+      {
+        "id": 177,
+        "code": "251511",
+        "en": "Hospital Pharmacist",
+        "vi": "Dược sĩ bệnh viện"
+      },
+      {
+        "id": 178,
+        "code": "251512",
+        "en": "Industrial Pharmacist",
+        "vi": "Dược sĩ công nghiệp"
+      },
+      {
+        "id": 179,
+        "code": "251513",
+        "en": "Retail Pharmacist",
+        "vi": "Dược sĩ bán lẻ"
+      },
+      {
+        "id": 180,
+        "code": "251912",
+        "en": "Orthotist or Prosthetist",
+        "vi": "Chuyên gia chỉnh hình hoặc giả phẫu"
+      },
+      {
+        "id": 181,
+        "code": "251999",
+        "en": "Health Diagnostic and Promotion Professionals nec",
+        "vi": "Chuyên gia chẩn đoán và quảng bá sức khỏe khác"
+      },
+      {
+        "id": 182,
+        "code": "252214",
+        "en": "Traditional Chinese Medicine Practitioner",
+        "vi": "Chuyên gia y học cổ truyền Trung Quốc"
+      },
+      {
+        "id": 183,
+        "code": "252299",
+        "en": "Complementary Health Therapists nec",
+        "vi": "Chuyên gia liệu pháp sức khỏe bổ sung khác"
+      },
+      {
+        "id": 184,
+        "code": "252311",
+        "en": "Dental Specialist",
+        "vi": "Chuyên gia nha khoa"
+      },
+      {
+        "id": 185,
+        "code": "252312",
+        "en": "Dentist",
+        "vi": "Nha sĩ"
+      },
+      {
+        "id": 186,
+        "code": "252411",
+        "en": "Occupational Therapist",
+        "vi": "Chuyên gia trị liệu nghề nghiệp"
+      },
+      {
+        "id": 187,
+        "code": "252511",
+        "en": "Physiotherapist",
+        "vi": "Chuyên gia vật lý trị liệu"
+      },
+      {
+        "id": 188,
+        "code": "252611",
+        "en": "Podiatrist",
+        "vi": "Chuyên gia chân"
+      },
+      {
+        "id": 189,
+        "code": "252711",
+        "en": "Audiologist",
+        "vi": "Chuyên gia thính lực"
+      },
+      {
+        "id": 190,
+        "code": "252712",
+        "en": "Speech Pathologist / Speech Language Therapist",
+        "vi": "Chuyên gia ngôn ngữ / Trị liệu ngôn ngữ"
+      },
+      {
+        "id": 191,
+        "code": "253111",
+        "en": "General Practitioner",
+        "vi": "Bác sĩ đa khoa"
+      },
+      {
+        "id": 192,
+        "code": "253112",
+        "en": "Resident Medical Officer",
+        "vi": "Bác sĩ điều trị nội trú"
+      },
+      {
+        "id": 193,
+        "code": "253211",
+        "en": "Anaesthetist",
+        "vi": "Bác sĩ gây mê"
+      },
+      {
+        "id": 194,
+        "code": "253311",
+        "en": "Specialist Physician (General Medicine)",
+        "vi": "Bác sĩ chuyên khoa (Y học tổng quát)"
+      },
+      {
+        "id": 195,
+        "code": "253312",
+        "en": "Cardiologist",
+        "vi": "Bác sĩ tim mạch"
+      },
+      {
+        "id": 196,
+        "code": "253313",
+        "en": "Clinical Haematologist",
+        "vi": "Bác sĩ huyết học lâm sàng"
+      },
+      {
+        "id": 197,
+        "code": "253314",
+        "en": "Medical Oncologist",
+        "vi": "Bác sĩ ung bướu"
+      },
+      {
+        "id": 198,
+        "code": "253315",
+        "en": "Endocrinologist",
+        "vi": "Bác sĩ nội tiết"
+      },
+      {
+        "id": 199,
+        "code": "253316",
+        "en": "Gastroenterologist",
+        "vi": "Bác sĩ tiêu hóa"
+      },
+      {
+        "id": 200,
+        "code": "253317",
+        "en": "Intensive Care Specialist",
+        "vi": "Chuyên gia chăm sóc tích cực"
+      },
+      {
+        "id": 201,
+        "code": "253318",
+        "en": "Neurologist",
+        "vi": "Bác sĩ thần kinh"
+      },
+      {
+        "id": 202,
+        "code": "253321",
+        "en": "Paediatrician",
+        "vi": "Bác sĩ nhi khoa"
+      },
+      {
+        "id": 203,
+        "code": "253322",
+        "en": "Renal Medicine Specialist",
+        "vi": "Chuyên gia y học thận"
+      },
+      {
+        "id": 204,
+        "code": "253323",
+        "en": "Rheumatologist",
+        "vi": "Chuyên gia về bệnh khớp"
+      },
+      {
+        "id": 205,
+        "code": "253324",
+        "en": "Thoracic Medicine Specialist",
+        "vi": "Chuyên gia y học lồng ngực"
+      },
+      {
+        "id": 206,
+        "code": "253399",
+        "en": "Specialist Physicians nec",
+        "vi": "Chuyên gia y tế khác"
+      },
+      {
+        "id": 207,
+        "code": "253411",
+        "en": "Psychiatrist",
+        "vi": "Bác sĩ tâm thần"
+      },
+      {
+        "id": 208,
+        "code": "253511",
+        "en": "Surgeon (General)",
+        "vi": "Bác sĩ phẫu thuật (Chuyên khoa chung)"
+      },
+      {
+        "id": 209,
+        "code": "253512",
+        "en": "Cardiothoracic Surgeon",
+        "vi": "Bác sĩ phẫu thuật tim mạch và lồng ngực"
+      },
+      {
+        "id": 210,
+        "code": "253513",
+        "en": "Neurosurgeon",
+        "vi": "Bác sĩ phẫu thuật thần kinh"
+      },
+      {
+        "id": 211,
+        "code": "253514",
+        "en": "Orthopaedic Surgeon",
+        "vi": "Bác sĩ phẫu thuật chỉnh hình"
+      },
+      {
+        "id": 212,
+        "code": "253515",
+        "en": "Otorhinolaryngologist",
+        "vi": "Bác sĩ tai mũi họng"
+      },
+      {
+        "id": 213,
+        "code": "253516",
+        "en": "Paediatric Surgeon",
+        "vi": "Bác sĩ phẫu thuật nhi khoa"
+      },
+      {
+        "id": 214,
+        "code": "253517",
+        "en": "Plastic and Reconstructive Surgeon",
+        "vi": "Bác sĩ phẫu thuật thẩm mỹ và tái tạo"
+      },
+      {
+        "id": 215,
+        "code": "253518",
+        "en": "Urologist",
+        "vi": "Chuyên gia tiết niệu"
+      },
+      {
+        "id": 216,
+        "code": "253521",
+        "en": "Vascular Surgeon",
+        "vi": "Bác sĩ phẫu thuật mạch máu"
+      },
+      {
+        "id": 217,
+        "code": "253911",
+        "en": "Dermatologist",
+        "vi": "Bác sĩ da liễu"
+      },
+      {
+        "id": 218,
+        "code": "253912",
+        "en": "Emergency Medicine Specialist",
+        "vi": "Chuyên gia y học cấp cứu"
+      },
+      {
+        "id": 219,
+        "code": "253913",
+        "en": "Obstetrician and Gynaecologist",
+        "vi": "Bác sĩ sản phụ khoa"
+      },
+      {
+        "id": 220,
+        "code": "253914",
+        "en": "Ophthalmologist",
+        "vi": "Bác sĩ nhãn khoa"
+      },
+      {
+        "id": 221,
+        "code": "253915",
+        "en": "Pathologist",
+        "vi": "Bác sĩ bệnh lý"
+      },
+      {
+        "id": 222,
+        "code": "253917",
+        "en": "Diagnostic and Interventional Radiologist",
+        "vi": "Chuyên gia chẩn đoán và can thiệp X-quang"
+      },
+      {
+        "id": 223,
+        "code": "253918",
+        "en": "Radiation Oncologist",
+        "vi": "Chuyên gia xạ trị"
+      },
+      {
+        "id": 224,
+        "code": "253999",
+        "en": "Medical Practitioners nec",
+        "vi": "Bác sĩ y tế khác"
+      },
+      {
+        "id": 225,
+        "code": "254111",
+        "en": "Midwife",
+        "vi": "Nữ hộ sinh"
+      },
+      {
+        "id": 226,
+        "code": "254211",
+        "en": "Nurse Educator",
+        "vi": "Giáo viên y tá"
+      },
+      {
+        "id": 227,
+        "code": "254212",
+        "en": "Nurse Researcher",
+        "vi": "Nghiên cứu viên y tá"
+      },
+      {
+        "id": 228,
+        "code": "254411",
+        "en": "Nurse Practitioner",
+        "vi": "Y tá thực hành"
+      },
+      {
+        "id": 229,
+        "code": "254412",
+        "en": "Registered Nurse (Aged Care)",
+        "vi": "Y tá đăng ký (Chăm sóc người cao tuổi)"
+      },
+      {
+        "id": 230,
+        "code": "254413",
+        "en": "Registered Nurse (Child and Family Health)",
+        "vi": "Y tá đăng ký (Sức khỏe trẻ em và gia đình)"
+      },
+      {
+        "id": 231,
+        "code": "254414",
+        "en": "Registered Nurse (Community Health)",
+        "vi": "Y tá đăng ký (Sức khỏe cộng đồng)"
+      },
+      {
+        "id": 232,
+        "code": "254415",
+        "en": "Registered Nurse (Critical Care and Emergency)",
+        "vi": "Y tá đăng ký (Chăm sóc đặc biệt và cấp cứu)"
+      },
+      {
+        "id": 233,
+        "code": "254416",
+        "en": "Registered Nurse (Developmental Disability)",
+        "vi": "Y tá đăng ký (Khuyết tật phát triển)"
+      },
+      {
+        "id": 234,
+        "code": "254417",
+        "en": "Registered Nurse (Disability and Rehabilitation)",
+        "vi": "Y tá đăng ký (Khuyết tật và phục hồi chức năng)"
+      },
+      {
+        "id": 235,
+        "code": "254418",
+        "en": "Registered Nurse (Medical)",
+        "vi": "Y tá đăng ký (Y tế)"
+      },
+      {
+        "id": 236,
+        "code": "254421",
+        "en": "Registered Nurse (Medical Practice)",
+        "vi": "Y tá đăng ký (Thực hành y tế)"
+      },
+      {
+        "id": 237,
+        "code": "254422",
+        "en": "Registered Nurse (Mental Health)",
+        "vi": "Y tá đăng ký (Sức khỏe tâm thần)"
+      },
+      {
+        "id": 238,
+        "code": "254423",
+        "en": "Registered Nurse (Perioperative)",
+        "vi": "Y tá đăng ký (Trước và sau phẫu thuật)"
+      },
+      {
+        "id": 239,
+        "code": "254424",
+        "en": "Registered Nurse (Surgical)",
+        "vi": "Y tá đăng ký (Phẫu thuật)"
+      },
+      {
+        "id": 240,
+        "code": "254425",
+        "en": "Registered Nurse (Paediatrics)",
+        "vi": "Y tá đăng ký (Nhi khoa)"
+      },
+      {
+        "id": 241,
+        "code": "254499",
+        "en": "Registered Nurses nec",
+        "vi": "Y tá đăng ký khác"
+      },
+      {
+        "id": 242,
+        "code": "261111",
+        "en": "ICT Business Analyst",
+        "vi": "Chuyên viên phân tích kinh doanh ICT"
+      },
+      {
+        "id": 243,
+        "code": "261112",
+        "en": "Systems Analyst",
+        "vi": "Chuyên viên phân tích hệ thống"
+      },
+      {
+        "id": 244,
+        "code": "261211",
+        "en": "Multimedia Specialist",
+        "vi": "Chuyên gia đa phương tiện"
+      },
+      {
+        "id": 245,
+        "code": "261212",
+        "en": "Web Developer",
+        "vi": "Nhà phát triển web"
+      },
+      {
+        "id": 246,
+        "code": "261311",
+        "en": "Analyst Programmer",
+        "vi": "Lập trình viên phân tích"
+      },
+      {
+        "id": 247,
+        "code": "261312",
+        "en": "Developer Programmer",
+        "vi": "Lập trình viên phát triển"
+      },
+      {
+        "id": 248,
+        "code": "261313",
+        "en": "Software Engineer",
+        "vi": "Kỹ sư phần mềm"
+      },
+      {
+        "id": 249,
+        "code": "261314",
+        "en": "Software Tester",
+        "vi": "Kiểm thử phần mềm"
+      },
+      {
+        "id": 250,
+        "code": "261315",
+        "en": "Cyber Security Engineer",
+        "vi": "Kỹ sư an ninh mạng"
+      },
+      {
+        "id": 251,
+        "code": "261316",
+        "en": "Devops Engineer",
+        "vi": "Kỹ sư DevOps"
+      },
+      {
+        "id": 252,
+        "code": "261317",
+        "en": "Penetration Tester",
+        "vi": "Chuyên viên kiểm thử thâm nhập"
+      },
+      {
+        "id": 253,
+        "code": "261399",
+        "en": "Software and Applications Programmers nec",
+        "vi": "Lập trình viên phần mềm và ứng dụng khác"
+      },
+      {
+        "id": 254,
+        "code": "262111",
+        "en": "Database Administrator",
+        "vi": "Quản trị viên cơ sở dữ liệu"
+      },
+      {
+        "id": 255,
+        "code": "262113",
+        "en": "Systems Administrator",
+        "vi": "Quản trị viên hệ thống"
+      },
+      {
+        "id": 256,
+        "code": "262114",
+        "en": "Cyber Governance Risk and Compliance Specialist",
+        "vi": "Chuyên gia quản trị rủi ro và tuân thủ an ninh mạng"
+      },
+      {
+        "id": 257,
+        "code": "262115",
+        "en": "Cyber Security Advice and Assessment Specialist",
+        "vi": "Chuyên gia tư vấn và đánh giá an ninh mạng"
+      },
+      {
+        "id": 258,
+        "code": "262116",
+        "en": "Cyber Security Analyst",
+        "vi": "Nhà phân tích an ninh mạng"
+      },
+      {
+        "id": 259,
+        "code": "262117",
+        "en": "Cyber Security Architect",
+        "vi": "Kiến trúc sư an ninh mạng"
+      },
+      {
+        "id": 260,
+        "code": "262118",
+        "en": "Cyber Security Operations Coordinator",
+        "vi": "Điều phối viên hoạt động an ninh mạng"
+      },
+      {
+        "id": 261,
+        "code": "263111",
+        "en": "Computer Network and Systems Engineer",
+        "vi": "Kỹ sư mạng máy tính và hệ thống"
+      },
+      {
+        "id": 262,
+        "code": "263112",
+        "en": "Network Administrator",
+        "vi": "Quản trị viên mạng"
+      },
+      {
+        "id": 263,
+        "code": "263113",
+        "en": "Network Analyst",
+        "vi": "Nhà phân tích mạng"
+      },
+      {
+        "id": 264,
+        "code": "263211",
+        "en": "ICT Quality Assurance Engineer",
+        "vi": "Kỹ sư đảm bảo chất lượng ICT"
+      },
+      {
+        "id": 265,
+        "code": "263213",
+        "en": "ICT Systems Test Engineer",
+        "vi": "Kỹ sư kiểm tra hệ thống ICT"
+      },
+      {
+        "id": 266,
+        "code": "263299",
+        "en": "ICT Support and Test Engineers nec",
+        "vi": "Kỹ sư hỗ trợ và kiểm tra ICT khác"
+      },
+      {
+        "id": 267,
+        "code": "263312",
+        "en": "Telecommunications Network Engineer",
+        "vi": "Kỹ sư mạng viễn thông"
+      },
+      {
+        "id": 268,
+        "code": "271111",
+        "en": "Barrister",
+        "vi": "Luật sư tranh tụng"
+      },
+      {
+        "id": 269,
+        "code": "271214",
+        "en": "Intellectual Property Lawyer",
+        "vi": "Luật sư sở hữu trí tuệ"
+      },
+      {
+        "id": 270,
+        "code": "271299",
+        "en": "Judicial and Other Legal Professionals nec",
+        "vi": "Các chuyên gia tư pháp và pháp lý khác"
+      },
+      {
+        "id": 271,
+        "code": "271311",
+        "en": "Solicitor",
+        "vi": "Luật sư"
+      },
+      {
+        "id": 272,
+        "code": "272112",
+        "en": "Drug and Alcohol Counsellor",
+        "vi": "Tư vấn viên về ma túy và rượu"
+      },
+      {
+        "id": 273,
+        "code": "272114",
+        "en": "Rehabilitation Counsellor",
+        "vi": "Tư vấn viên phục hồi chức năng"
+      },
+      {
+        "id": 274,
+        "code": "272115",
+        "en": "Student Counsellor",
+        "vi": "Tư vấn viên học sinh"
+      },
+      {
+        "id": 275,
+        "code": "272311",
+        "en": "Clinical Psychologist",
+        "vi": "Tâm lý học lâm sàng"
+      },
+      {
+        "id": 276,
+        "code": "272312",
+        "en": "Educational Psychologist",
+        "vi": "Tâm lý học giáo dục"
+      },
+      {
+        "id": 277,
+        "code": "272313",
+        "en": "Organisational Psychologist",
+        "vi": "Tâm lý học tổ chức"
+      },
+      {
+        "id": 278,
+        "code": "272314",
+        "en": "Psychotherapist",
+        "vi": "Nhà trị liệu tâm lý"
+      },
+      {
+        "id": 279,
+        "code": "272399",
+        "en": "Psychologists nec",
+        "vi": "Tâm lý học khác"
+      },
+      {
+        "id": 280,
+        "code": "272413",
+        "en": "Translator",
+        "vi": "Biên dịch viên"
+      },
+      {
+        "id": 281,
+        "code": "272511",
+        "en": "Social Worker",
+        "vi": "Công tác xã hội"
+      },
+      {
+        "id": 282,
+        "code": "272612",
+        "en": "Recreation Officer, Recreation Coordinator",
+        "vi": "Nhân viên giải trí, Điều phối viên giải trí"
+      },
+      {
+        "id": 283,
+        "code": "311112",
+        "en": "Agricultural and Agritech Technician",
+        "vi": "Kỹ thuật viên nông nghiệp và công nghệ nông nghiệp"
+      },
+      {
+        "id": 284,
+        "code": "311113",
+        "en": "Animal Husbandry Technician",
+        "vi": "Kỹ thuật viên chăn nuôi"
+      },
+      {
+        "id": 285,
+        "code": "311114",
+        "en": "Aquaculture or Fisheries Technician",
+        "vi": "Kỹ thuật viên nuôi trồng thủy sản hoặc ngư nghiệp"
+      },
+      {
+        "id": 286,
+        "code": "311115",
+        "en": "Irrigation Designer",
+        "vi": "Nhà thiết kế hệ thống tưới tiêu"
+      },
+      {
+        "id": 287,
+        "code": "311211",
+        "en": "Anaesthetic Technician",
+        "vi": "Kỹ thuật viên gây mê"
+      },
+      {
+        "id": 288,
+        "code": "311212",
+        "en": "Cardiac Technician",
+        "vi": "Kỹ thuật viên tim mạch"
+      },
+      {
+        "id": 289,
+        "code": "311215",
+        "en": "Pharmacy Technician",
+        "vi": "Kỹ thuật viên dược phẩm"
+      },
+      {
+        "id": 290,
+        "code": "311217",
+        "en": "Respiratory Technician",
+        "vi": "Kỹ thuật viên hô hấp"
+      },
+      {
+        "id": 291,
+        "code": "311299",
+        "en": "Medical Technicians nec",
+        "vi": "Kỹ thuật viên y tế khác"
+      },
+      {
+        "id": 292,
+        "code": "311312",
+        "en": "Meat Inspector",
+        "vi": "Thanh tra thịt"
+      },
+      {
+        "id": 293,
+        "code": "311314",
+        "en": "Primary Products Quality Assurance Officer",
+        "vi": "Nhân viên đảm bảo chất lượng sản phẩm chính"
+      },
+      {
+        "id": 294,
+        "code": "311399",
+        "en": "Primary Products Assurance and Inspection Officers nec",
+        "vi": "Nhân viên kiểm tra và đảm bảo sản phẩm chính khác"
+      },
+      {
+        "id": 295,
+        "code": "311411",
+        "en": "Chemistry Technician",
+        "vi": "Kỹ thuật viên hóa học"
+      },
+      {
+        "id": 296,
+        "code": "311412",
+        "en": "Earth Science Technician",
+        "vi": "Kỹ thuật viên khoa học trái đất"
+      },
+      {
+        "id": 297,
+        "code": "311499",
+        "en": "Science Technicians nec",
+        "vi": "Kỹ thuật viên khoa học khác"
+      },
+      {
+        "id": 298,
+        "code": "312111",
+        "en": "Architectural Draftsperson",
+        "vi": "Kỹ thuật viên phác thảo kiến trúc"
+      },
+      {
+        "id": 299,
+        "code": "312112",
+        "en": "Building Associate",
+        "vi": "Cộng sự xây dựng"
+      },
+      {
+        "id": 300,
+        "code": "312113",
+        "en": "Building Inspector",
+        "vi": "Thanh tra xây dựng"
+      },
+      {
+        "id": 301,
+        "code": "312114",
+        "en": "Construction Estimator",
+        "vi": "Kỹ sư dự toán xây dựng"
+      },
+      {
+        "id": 302,
+        "code": "312116",
+        "en": "Surveying or Spatial Science Technician",
+        "vi": "Kỹ thuật viên đo đạc hoặc khoa học không gian"
+      },
+      {
+        "id": 303,
+        "code": "312199",
+        "en": "Architectural, Building and Surveying Technicians nec",
+        "vi": "Kỹ thuật viên kiến trúc, xây dựng và đo đạc khác"
+      },
+      {
+        "id": 304,
+        "code": "312211",
+        "en": "Civil Engineering Draftsperson",
+        "vi": "Kỹ sư dân dụng thiết kế"
+      },
+      {
+        "id": 305,
+        "code": "312212",
+        "en": "Civil Engineering Technician",
+        "vi": "Kỹ thuật viên kỹ sư dân dụng"
+      },
+      {
+        "id": 306,
+        "code": "312311",
+        "en": "Electrical Engineering Draftsperson",
+        "vi": "Kỹ sư điện thiết kế"
+      },
+      {
+        "id": 307,
+        "code": "312312",
+        "en": "Electrical Engineering Technician",
+        "vi": "Kỹ thuật viên kỹ sư điện"
+      },
+      {
+        "id": 308,
+        "code": "312412",
+        "en": "Electronic Engineering Technician",
+        "vi": "Kỹ thuật viên kỹ sư điện tử"
+      },
+      {
+        "id": 309,
+        "code": "312511",
+        "en": "Mechanical Engineering Draftsperson",
+        "vi": "Kỹ sư cơ khí thiết kế"
+      },
+      {
+        "id": 310,
+        "code": "312512",
+        "en": "Mechanical Engineering Technician",
+        "vi": "Kỹ thuật viên kỹ sư cơ khí"
+      },
+      {
+        "id": 311,
+        "code": "312911",
+        "en": "Maintenance Planner",
+        "vi": "Người lập kế hoạch bảo trì"
+      },
+      {
+        "id": 312,
+        "code": "312912",
+        "en": "Metallurgical or Materials Technician",
+        "vi": "Kỹ thuật viên luyện kim hoặc vật liệu"
+      },
+      {
+        "id": 313,
+        "code": "312913",
+        "en": "Mine Deputy",
+        "vi": "Phó giám đốc mỏ"
+      },
+      {
+        "id": 314,
+        "code": "312914",
+        "en": "Other Draftsperson",
+        "vi": "Kỹ sư thiết kế khác"
+      },
+      {
+        "id": 315,
+        "code": "312999",
+        "en": "Building and Engineering Technicians nec",
+        "vi": "Kỹ thuật viên xây dựng và kỹ thuật khác"
+      },
+      {
+        "id": 316,
+        "code": "313111",
+        "en": "Hardware Technician",
+        "vi": "Kỹ thuật viên phần cứng"
+      },
+      {
+        "id": 317,
+        "code": "313112",
+        "en": "ICT Customer Support Officer",
+        "vi": "Nhân viên hỗ trợ khách hàng ICT"
+      },
+      {
+        "id": 318,
+        "code": "313113",
+        "en": "Web Administrator",
+        "vi": "Quản trị viên web"
+      },
+      {
+        "id": 319,
+        "code": "313199",
+        "en": "ICT Support Technicians nec",
+        "vi": "Kỹ thuật viên hỗ trợ ICT khác"
+      },
+      {
+        "id": 320,
+        "code": "313212",
+        "en": "Telecommunications Field Engineer",
+        "vi": "Kỹ sư viễn thông hiện trường"
+      },
+      {
+        "id": 321,
+        "code": "313213",
+        "en": "Telecommunications Network Planner",
+        "vi": "Nhà hoạch định mạng viễn thông"
+      },
+      {
+        "id": 322,
+        "code": "313214",
+        "en": "Telecommunications Technical Officer or Technologist",
+        "vi": "Nhân viên kỹ thuật viễn thông"
+      },
+      {
+        "id": 323,
+        "code": "321111",
+        "en": "Automotive Electrician",
+        "vi": "Thợ điện ô tô"
+      },
+      {
+        "id": 324,
+        "code": "321211",
+        "en": "Motor Mechanic (General)",
+        "vi": "Thợ cơ khí ô tô (Chung)"
+      },
+      {
+        "id": 325,
+        "code": "321212",
+        "en": "Diesel Motor Mechanic",
+        "vi": "Thợ cơ khí động cơ diesel"
+      },
+      {
+        "id": 326,
+        "code": "321213",
+        "en": "Motorcycle Mechanic",
+        "vi": "Thợ cơ khí xe máy"
+      },
+      {
+        "id": 327,
+        "code": "321214",
+        "en": "Small Engine Mechanic",
+        "vi": "Thợ cơ khí động cơ nhỏ"
+      },
+      {
+        "id": 328,
+        "code": "322112",
+        "en": "Electroplater",
+        "vi": "Thợ mạ điện"
+      },
+      {
+        "id": 329,
+        "code": "322113",
+        "en": "Farrier",
+        "vi": "Thợ rèn"
+      },
+      {
+        "id": 330,
+        "code": "322114",
+        "en": "Metal Casting Trades Worker",
+        "vi": "Công nhân nghề đúc kim loại"
+      },
+      {
+        "id": 331,
+        "code": "322211",
+        "en": "Sheetmetal Worker",
+        "vi": "Thợ kim loại tấm"
+      },
+      {
+        "id": 332,
+        "code": "322311",
+        "en": "Metal Fabricator",
+        "vi": "Thợ chế tạo kim loại"
+      },
+      {
+        "id": 333,
+        "code": "322312",
+        "en": "Pressure Welder",
+        "vi": "Thợ hàn áp lực"
+      },
+      {
+        "id": 334,
+        "code": "322313",
+        "en": "Welder (First Class)",
+        "vi": "Thợ hàn (Loại một)"
+      },
+      {
+        "id": 335,
+        "code": "323111",
+        "en": "Aircraft Maintenance Engineer (Avionics)",
+        "vi": "Kỹ sư bảo trì máy bay (Điện tử hàng không)"
+      },
+      {
+        "id": 336,
+        "code": "323112",
+        "en": "Aircraft Maintenance Engineer (Mechanical)",
+        "vi": "Kỹ sư bảo trì máy bay (Cơ khí)"
+      },
+      {
+        "id": 337,
+        "code": "323113",
+        "en": "Aircraft Maintenance Engineer (Structures)",
+        "vi": "Kỹ sư bảo trì máy bay (Kết cấu)"
+      },
+      {
+        "id": 338,
+        "code": "323211",
+        "en": "Fitter (General)",
+        "vi": "Thợ cơ khí (Chung)"
+      },
+      {
+        "id": 339,
+        "code": "323212",
+        "en": "Fitter and Turner",
+        "vi": "Thợ cơ khí và tiện"
+      },
+      {
+        "id": 340,
+        "code": "323213",
+        "en": "Fitter-Welder",
+        "vi": "Thợ cơ khí-hàn"
+      },
+      {
+        "id": 341,
+        "code": "323214",
+        "en": "Metal Machinist (First Class)",
+        "vi": "Thợ cơ khí chế tạo kim loại (Loại một)"
+      },
+      {
+        "id": 342,
+        "code": "323215",
+        "en": "Textile, Clothing and Footwear Mechanic",
+        "vi": "Thợ cơ khí dệt may, quần áo và giày dép"
+      },
+      {
+        "id": 343,
+        "code": "323299",
+        "en": "Metal Fitters and Machinists nec",
+        "vi": "Thợ lắp ráp và chế tạo kim loại khác"
+      },
+      {
+        "id": 344,
+        "code": "323313",
+        "en": "Locksmith",
+        "vi": "Thợ sửa khóa"
+      },
+      {
+        "id": 345,
+        "code": "323314",
+        "en": "Precision Instrument Maker and Repairer",
+        "vi": "Thợ chế tạo và sửa chữa dụng cụ chính xác"
+      },
+      {
+        "id": 346,
+        "code": "323411",
+        "en": "Engineering Patternmaker",
+        "vi": "Thợ làm mẫu kỹ thuật"
+      },
+      {
+        "id": 347,
+        "code": "323412",
+        "en": "Toolmaker",
+        "vi": "Thợ chế tạo dụng cụ"
+      },
+      {
+        "id": 348,
+        "code": "324111",
+        "en": "Panelbeater",
+        "vi": "Thợ làm vỏ xe"
+      },
+      {
+        "id": 349,
+        "code": "324211",
+        "en": "Vehicle Body Builder",
+        "vi": "Thợ chế tạo thân xe"
+      },
+      {
+        "id": 350,
+        "code": "324212",
+        "en": "Vehicle Trimmer",
+        "vi": "Thợ cắt gọt xe"
+      },
+      {
+        "id": 351,
+        "code": "324311",
+        "en": "Vehicle Painter",
+        "vi": "Thợ sơn xe"
+      },
+      {
+        "id": 352,
+        "code": "331111",
+        "en": "Bricklayer",
+        "vi": "Thợ xây gạch"
+      },
+      {
+        "id": 353,
+        "code": "331112",
+        "en": "Stonemason",
+        "vi": "Thợ đá"
+      },
+      {
+        "id": 354,
+        "code": "331211",
+        "en": "Carpenter and Joiner",
+        "vi": "Thợ mộc và thợ đóng gỗ"
+      },
+      {
+        "id": 355,
+        "code": "331212",
+        "en": "Carpenter",
+        "vi": "Thợ mộc"
+      },
+      {
+        "id": 356,
+        "code": "331213",
+        "en": "Joiner",
+        "vi": "Thợ đóng gỗ"
+      },
+      {
+        "id": 357,
+        "code": "332111",
+        "en": "Floor Finisher",
+        "vi": "Thợ hoàn thiện sàn"
+      },
+      {
+        "id": 358,
+        "code": "332211",
+        "en": "Painter",
+        "vi": "Thợ sơn"
+      },
+      {
+        "id": 359,
+        "code": "333111",
+        "en": "Glazier",
+        "vi": "Thợ kính"
+      },
+      {
+        "id": 360,
+        "code": "333211",
+        "en": "Plasterer (Wall and Ceiling)",
+        "vi": "Thợ trát (Tường và trần)"
+      },
+      {
+        "id": 361,
+        "code": "333212",
+        "en": "Renderer (Solid Plaster)",
+        "vi": "Thợ trát (Trát đặc)"
+      },
+      {
+        "id": 362,
+        "code": "333311",
+        "en": "Roof Tiler",
+        "vi": "Thợ lợp mái"
+      },
+      {
+        "id": 363,
+        "code": "333411",
+        "en": "Wall and Floor Tiler",
+        "vi": "Thợ lót tường và sàn"
+      },
+      {
+        "id": 364,
+        "code": "334112",
+        "en": "Airconditioning and Mechanical Services Plumber",
+        "vi": "Thợ sửa ống nước hệ thống điều hòa và cơ khí"
+      },
+      {
+        "id": 365,
+        "code": "334113",
+        "en": "Drainer",
+        "vi": "Thợ thoát nước"
+      },
+      {
+        "id": 366,
+        "code": "334114",
+        "en": "Gasfitter",
+        "vi": "Thợ lắp đặt gas"
+      },
+      {
+        "id": 367,
+        "code": "334115",
+        "en": "Roof Plumber",
+        "vi": "Thợ lợp mái ống nước"
+      },
+      {
+        "id": 368,
+        "code": "334116",
+        "en": "Plumber (General)",
+        "vi": "Thợ sửa ống nước (Chung)"
+      },
+      {
+        "id": 369,
+        "code": "334117",
+        "en": "Fire Protection Plumber",
+        "vi": "Thợ lắp đặt hệ thống chữa cháy"
+      },
+      {
+        "id": 370,
+        "code": "341111",
+        "en": "Electrician (General)",
+        "vi": "Thợ điện (Chung)"
+      },
+      {
+        "id": 371,
+        "code": "341112",
+        "en": "Electrician (Special Class)",
+        "vi": "Thợ điện (Lớp đặc biệt)"
+      },
+      {
+        "id": 372,
+        "code": "342111",
+        "en": "Airconditioning and Refrigeration Mechanic",
+        "vi": "Thợ sửa chữa điều hòa và tủ lạnh"
+      },
+      {
+        "id": 373,
+        "code": "342211",
+        "en": "Electrical Linesworker / Electrical Line Mechanic",
+        "vi": "Công nhân điện / Thợ sửa chữa đường dây điện"
+      },
+      {
+        "id": 374,
+        "code": "342212",
+        "en": "Technical Cable Jointer",
+        "vi": "Thợ nối cáp kỹ thuật"
+      },
+      {
+        "id": 375,
+        "code": "342311",
+        "en": "Business Machine Mechanic",
+        "vi": "Thợ sửa chữa máy móc văn phòng"
+      },
+      {
+        "id": 376,
+        "code": "342313",
+        "en": "Electronic Equipment Trades Worker",
+        "vi": "Thợ sửa chữa thiết bị điện tử"
+      },
+      {
+        "id": 377,
+        "code": "342314",
+        "en": "Electronic Instrument Trades Worker (General)",
+        "vi": "Thợ sửa chữa thiết bị điện tử (Chung)"
+      },
+      {
+        "id": 378,
+        "code": "342315",
+        "en": "Electronic Instrument Trades Worker (Special Class)",
+        "vi": "Thợ sửa chữa thiết bị điện tử (Lớp đặc biệt)"
+      },
+      {
+        "id": 379,
+        "code": "342411",
+        "en": "Cabler (Data and Telecommunications)",
+        "vi": "Thợ lắp đặt cáp (Dữ liệu và viễn thông)"
+      },
+      {
+        "id": 380,
+        "code": "342412",
+        "en": "Telecommunications Cable Jointer",
+        "vi": "Thợ nối cáp viễn thông"
+      },
+      {
+        "id": 381,
+        "code": "342413",
+        "en": "Telecommunications Linesworker / Telecommunications Line Mechanic",
+        "vi": "Công nhân viễn thông / Thợ sửa chữa đường dây viễn thông"
+      },
+      {
+        "id": 382,
+        "code": "342414",
+        "en": "Telecommunications Technician",
+        "vi": "Kỹ thuật viên viễn thông"
+      },
+      {
+        "id": 383,
+        "code": "351111",
+        "en": "Baker",
+        "vi": "Thợ làm bánh"
+      },
+      {
+        "id": 384,
+        "code": "351112",
+        "en": "Pastrycook",
+        "vi": "Thợ làm bánh ngọt"
+      },
+      {
+        "id": 385,
+        "code": "351211",
+        "en": "Butcher or Smallgoods Maker",
+        "vi": "Thợ làm thịt hoặc chế biến thực phẩm nhỏ"
+      },
+      {
+        "id": 386,
+        "code": "351311",
+        "en": "Chef",
+        "vi": "Đầu bếp"
+      },
+      {
+        "id": 387,
+        "code": "351411",
+        "en": "Cook",
+        "vi": "Nấu ăn"
+      },
+      {
+        "id": 388,
+        "code": "361111",
+        "en": "Dog Handler or Trainer",
+        "vi": "Huấn luyện viên hoặc người chăm sóc chó"
+      },
+      {
+        "id": 389,
+        "code": "361112",
+        "en": "Horse Trainer",
+        "vi": "Huấn luyện viên ngựa"
+      },
+      {
+        "id": 390,
+        "code": "361311",
+        "en": "Veterinary Nurse",
+        "vi": "Y tá thú y"
+      },
+      {
+        "id": 391,
+        "code": "362411",
+        "en": "Nurseryperson",
+        "vi": "Người làm vườn"
+      },
+      {
+        "id": 392,
+        "code": "362511",
+        "en": "Arborist",
+        "vi": "Chuyên gia cây cối"
+      },
+      {
+        "id": 393,
+        "code": "362512",
+        "en": "Tree Worker",
+        "vi": "Nhân viên cây xanh"
+      },
+      {
+        "id": 394,
+        "code": "362711",
+        "en": "Landscape Gardener",
+        "vi": "Thợ làm vườn phong cảnh"
+      },
+      {
+        "id": 395,
+        "code": "362712",
+        "en": "Irrigation Technician",
+        "vi": "Kỹ thuật viên tưới nước"
+      },
+      {
+        "id": 396,
+        "code": "391111",
+        "en": "Hairdresser",
+        "vi": "Thợ cắt tóc"
+      },
+      {
+        "id": 397,
+        "code": "392111",
+        "en": "Print Finisher",
+        "vi": "Thợ hoàn thiện in ấn"
+      },
+      {
+        "id": 398,
+        "code": "392112",
+        "en": "Screen Printer",
+        "vi": "Thợ in lụa"
+      },
+      {
+        "id": 399,
+        "code": "392211",
+        "en": "Graphic Pre-press Trades Worker",
+        "vi": "Thợ in đồ họa"
+      },
+      {
+        "id": 400,
+        "code": "392311",
+        "en": "Printing Machinist",
+        "vi": "Thợ vận hành máy in"
+      },
+      {
+        "id": 401,
+        "code": "393114",
+        "en": "Shoemaker",
+        "vi": "Thợ làm giày"
+      },
+      {
+        "id": 402,
+        "code": "393311",
+        "en": "Upholsterer",
+        "vi": "Thợ bọc ghế"
+      },
+      {
+        "id": 403,
+        "code": "394112",
+        "en": "Cabinet Maker",
+        "vi": "Thợ làm tủ"
+      },
+      {
+        "id": 404,
+        "code": "394113",
+        "en": "Furniture Maker",
+        "vi": "Thợ làm đồ nội thất"
+      },
+      {
+        "id": 405,
+        "code": "394211",
+        "en": "Furniture Finisher",
+        "vi": "Thợ hoàn thiện đồ nội thất"
+      },
+      {
+        "id": 406,
+        "code": "394212",
+        "en": "Picture Framer",
+        "vi": "Thợ đóng khung tranh"
+      },
+      {
+        "id": 407,
+        "code": "394213",
+        "en": "Wood Machinist",
+        "vi": "Thợ gia công gỗ"
+      },
+      {
+        "id": 408,
+        "code": "394299",
+        "en": "Wood Machinists and Other Wood Trades Workers nec",
+        "vi": "Thợ gia công gỗ và các nghề khác liên quan đến gỗ"
+      },
+      {
+        "id": 409,
+        "code": "399111",
+        "en": "Boat Builder and Repairer",
+        "vi": "Thợ đóng và sửa thuyền"
+      },
+      {
+        "id": 410,
+        "code": "399112",
+        "en": "Shipwright",
+        "vi": "Thợ đóng tàu"
+      },
+      {
+        "id": 411,
+        "code": "399211",
+        "en": "Chemical Plant Operator",
+        "vi": "Nhân viên vận hành nhà máy hóa chất"
+      },
+      {
+        "id": 412,
+        "code": "399212",
+        "en": "Gas or Petroleum Operator",
+        "vi": "Nhân viên vận hành khí hoặc dầu mỏ"
+      },
+      {
+        "id": 413,
+        "code": "399213",
+        "en": "Power Generation Plant Operator",
+        "vi": "Nhân viên vận hành nhà máy phát điện"
+      },
+      {
+        "id": 414,
+        "code": "399513",
+        "en": "Light Technician",
+        "vi": "Kỹ thuật viên ánh sáng"
+      },
+      {
+        "id": 415,
+        "code": "399516",
+        "en": "Sound Technician",
+        "vi": "Kỹ thuật viên âm thanh"
+      },
+      {
+        "id": 416,
+        "code": "399599",
+        "en": "Performing Arts Technicians nec",
+        "vi": "Kỹ thuật viên nghệ thuật biểu diễn khác"
+      },
+      {
+        "id": 417,
+        "code": "399611",
+        "en": "Signwriter",
+        "vi": "Thợ viết biển hiệu"
+      },
+      {
+        "id": 418,
+        "code": "399911",
+        "en": "Diver",
+        "vi": "Lái thợ lặn"
+      },
+      {
+        "id": 419,
+        "code": "399913",
+        "en": "Optical Dispenser / Dispensing Optician",
+        "vi": "Nhà phân phát kính / Nhãn khoa phân phát"
+      },
+      {
+        "id": 420,
+        "code": "399914",
+        "en": "Optical Mechanic",
+        "vi": "Thợ cơ khí quang học"
+      },
+      {
+        "id": 421,
+        "code": "399916",
+        "en": "Plastics Technician",
+        "vi": "Kỹ thuật viên nhựa"
+      },
+      {
+        "id": 422,
+        "code": "399918",
+        "en": "Fire Protection Equipment Technician",
+        "vi": "Kỹ thuật viên thiết bị bảo vệ cháy"
+      },
+      {
+        "id": 423,
+        "code": "399999",
+        "en": "Technicians and Trades Workers nec",
+        "vi": "Kỹ thuật viên và công nhân nghề nghiệp khác"
+      },
+      {
+        "id": 424,
+        "code": "411111",
+        "en": "Ambulance Officer",
+        "vi": "Nhân viên cứu thương"
+      },
+      {
+        "id": 425,
+        "code": "411112",
+        "en": "Intensive Care Ambulance Paramedic",
+        "vi": "Nhân viên cấp cứu xe cứu thương"
+      },
+      {
+        "id": 426,
+        "code": "411211",
+        "en": "Dental Hygienist",
+        "vi": "Nhân viên vệ sinh nha khoa"
+      },
+      {
+        "id": 427,
+        "code": "411212",
+        "en": "Dental Prosthetist",
+        "vi": "Chuyên gia phục hình nha khoa"
+      },
+      {
+        "id": 428,
+        "code": "411213",
+        "en": "Dental Technician",
+        "vi": "Kỹ thuật viên nha khoa"
+      },
+      {
+        "id": 429,
+        "code": "411214",
+        "en": "Dental Therapist",
+        "vi": "Nhà trị liệu nha khoa"
+      },
+      {
+        "id": 430,
+        "code": "411311",
+        "en": "Diversional Therapist",
+        "vi": "Nhà trị liệu phân tán"
+      },
+      {
+        "id": 431,
+        "code": "411411",
+        "en": "Enrolled Nurse",
+        "vi": "Y tá đã đăng ký"
+      },
+      {
+        "id": 432,
+        "code": "411611",
+        "en": "Massage Therapist",
+        "vi": "Nhà trị liệu mát xa"
+      },
+      {
+        "id": 433,
+        "code": "411711",
+        "en": "Community Worker",
+        "vi": "Công nhân cộng đồng"
+      },
+      {
+        "id": 434,
+        "code": "411713",
+        "en": "Family Support Worker",
+        "vi": "Công nhân hỗ trợ gia đình"
+      },
+      {
+        "id": 435,
+        "code": "411715",
+        "en": "Residential Care Officer",
+        "vi": "Cán bộ chăm sóc cư trú"
+      },
+      {
+        "id": 436,
+        "code": "411716",
+        "en": "Youth Worker",
+        "vi": "Công nhân thanh thiếu niên"
+      },
+      {
+        "id": 437,
+        "code": "421111",
+        "en": "Child Care Worker",
+        "vi": "Công nhân chăm sóc trẻ em"
+      },
+      {
+        "id": 438,
+        "code": "421114",
+        "en": "Out of School Hours Care Worker",
+        "vi": "Công nhân chăm sóc ngoài giờ học"
+      },
+      {
+        "id": 439,
+        "code": "431411",
+        "en": "Hotel Service Manager",
+        "vi": "Quản lý dịch vụ khách sạn"
+      },
+      {
+        "id": 440,
+        "code": "451111",
+        "en": "Beauty Therapist",
+        "vi": "Nhà trị liệu sắc đẹp"
+      },
+      {
+        "id": 441,
+        "code": "451412",
+        "en": "Tour Guide",
+        "vi": "Hướng dẫn viên du lịch"
+      },
+      {
+        "id": 442,
+        "code": "451612",
+        "en": "Travel Consultant",
+        "vi": "Tư vấn du lịch"
+      },
+      {
+        "id": 443,
+        "code": "451711",
+        "en": "Flight Attendant",
+        "vi": "Tiếp viên hàng không"
+      },
+      {
+        "id": 444,
+        "code": "452311",
+        "en": "Diving Instructor (Open Water)",
+        "vi": "Giảng viên lặn (Nước mở)"
+      },
+      {
+        "id": 445,
+        "code": "452317",
+        "en": "Other Sports Coach or Instructor (Wushu Martial Arts Coach or Yoga Instructor Only)",
+        "vi": "Huấn luyện viên thể thao khác (Huấn luyện viên Wushu hoặc Yoga)"
+      },
+      {
+        "id": 446,
+        "code": "452321",
+        "en": "Sports Development Officer",
+        "vi": "Cán bộ phát triển thể thao"
+      },
+      {
+        "id": 447,
+        "code": "511111",
+        "en": "Contract Administrator",
+        "vi": "Quản trị hợp đồng"
+      },
+      {
+        "id": 448,
+        "code": "511112",
+        "en": "Program or Project Administrator",
+        "vi": "Quản trị chương trình hoặc dự án"
+      },
+      {
+        "id": 449,
+        "code": "512111",
+        "en": "Office Manager",
+        "vi": "Quản lý văn phòng"
+      },
+      {
+        "id": 450,
+        "code": "521212",
+        "en": "Legal Secretary",
+        "vi": "Thư ký pháp lý"
+      },
+      {
+        "id": 451,
+        "code": "599111",
+        "en": "Conveyancer",
+        "vi": "Nhân viên chuyển nhượng"
+      },
+      {
+        "id": 452,
+        "code": "599211",
+        "en": "Clerk of Court",
+        "vi": "Thư ký tòa án"
+      },
+      {
+        "id": 453,
+        "code": "599612",
+        "en": "Insurance Loss Adjuster",
+        "vi": "Điều chỉnh tổn thất bảo hiểm"
+      },
+      {
+        "id": 454,
+        "code": "599915",
+        "en": "Clinical Coder",
+        "vi": "Mã hóa lâm sàng"
+      },
+      {
+        "id": 455,
+        "code": "611211",
+        "en": "Insurance Agent",
+        "vi": "Đại lý bảo hiểm"
+      },
+      {
+        "id": 456,
+        "code": "639211",
+        "en": "Retail Buyer",
+        "vi": "Người mua bán lẻ"
+      }
+  ]
+  

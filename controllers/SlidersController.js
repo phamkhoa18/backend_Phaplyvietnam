@@ -37,7 +37,6 @@ const SlidersControllere = {
 
     Edit_slider_image : async(req,res) => {
         try {
-
             const imagecurren = await Sliders.findById(req.body._id);
              Util.removeimage_uploads(imagecurren.image);
             // remove image in uploads 
@@ -91,7 +90,6 @@ const SlidersControllere = {
 
     Del_slider : async(req,res) => {
         try {
-
             const imagecurren = await Sliders.findById(req.params.id);
             Util.removeimage_uploads(imagecurren.image);
             

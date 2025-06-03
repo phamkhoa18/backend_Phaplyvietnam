@@ -5,7 +5,9 @@ const FormSchema = new mongoose.Schema({
     title : String , 
     content : []  ,
     posision : String  ,
-    seen : {type : Boolean , default : false}
+    seen : {type : Boolean , default : false} ,
+    date : {type : Date , default : Date.now()},
+    attach : [] 
 })
 
 const Forms = mongoose.model('Forms' , FormSchema);

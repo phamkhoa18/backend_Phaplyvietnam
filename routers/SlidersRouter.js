@@ -16,6 +16,8 @@ const storage = multer.diskStorage({
 
 const upload = multer({ storage: storage });
 
+
+
 router.post('/addslider', upload.single('image'), SlidersController.Add_slider);
 router.post('/editslider', SlidersController.Edit_slider);
 router.post('/editsliderimage' ,upload.single('image') , SlidersController.Edit_slider_image);
